@@ -13,12 +13,6 @@ const config: Config = {
         foreground: "var(--foreground)",
       },
     },
-    screens: {
-      sm: "640px",  
-      md: "1024px", 
-      lg: "1280px",  
-     
-    },
   },
   plugins: [],
 };
